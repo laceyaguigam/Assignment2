@@ -41,7 +41,7 @@ console.log(10 > 5);
 // 7. Write code to output the result of the comparison:
 // "Apples" is NOT equal to "Oranges"
 
-
+console.log('Apple' == 'Oranges');
 
 
 // 8. Write code to output the result of the comparison:
