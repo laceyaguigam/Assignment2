@@ -58,3 +58,5 @@ console.log(1 + 2 > 5 || 1 * 10 < 5);
 
 
 // 10. Write code that demonstrates an automatic type conversion as shown in Chapter 01.
+
+console.log(4 * null);
