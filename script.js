@@ -23,7 +23,7 @@ console.log('Hello\nWorld!');
 // 4. Write code to output the result of the arithmetic expression to the console:
 // 3 * 8 + 2;
 
-
+console.log(3 * 8 + 2);
 
 
 // 5. Write code to output the result of the comparison:
