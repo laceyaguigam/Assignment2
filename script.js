@@ -53,7 +53,7 @@ console.log(10 * 10 > 50, 5 * 5 < 50);
 // 9. Write code to output the result of the comparison:
 // 1 + 2 is greater than 5 OR 1 * 10 is greater than 5
 
-
+console.log(1 + 2 > 5 || 1 * 10 < 5);
 
 
 
