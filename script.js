@@ -29,7 +29,7 @@ console.log(3 * 8 + 2);
 // 5. Write code to output the result of the comparison:
 // 5 is less than 10.
 
-
+console.log(5 < 10);
 
 
 // 6. Write code to output the result of the comparison:
