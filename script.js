@@ -10,7 +10,7 @@ console.log("Hello World");
 // 2. Write code to concatenate three strings and output the result to the console:
 // "Hello", " ", "World!"
 
-console.log('Hello', '' + 'World!');
+console.log("Re" + "done");
 
 
 // 3. Write code to output "Hello" on one line and "World!" on the next line to the console.
